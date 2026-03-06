@@ -1,5 +1,7 @@
 # Flow2API Host Agent
 
+> Linux host-side companion service for Flow2API: browser login, token auto-refresh, Web UI, and systemd support.
+
 一个运行在 **Linux 宿主机** 上的独立 companion service，用来把 Google Labs / Flow 的登录态稳定同步回 **已有的 Flow2API** 实例。
 
 它适合：
